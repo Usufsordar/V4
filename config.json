@@ -3,7 +3,7 @@
   "language": "english",
   "allowinbox": false,
   "adminonly": false,
-  "autocreatedb": true,
+  "autocreatedb": false,
   "approval": false,
   "premium": false,
   "email": "sanjivfresh@gmail.com",
